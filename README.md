@@ -1,11 +1,11 @@
 # game-2048
 
 
-###、一 简介
+### 一、 简介
 
 本用例游戏代码部分来源于[react-native-2048](https://github.com/liuhong1happy/react-native-2048)
 
-###、二 使用
+### 二、 使用
 
 **web**
 
